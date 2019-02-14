@@ -1,0 +1,40 @@
+{
+  "_from": "@skivy71/app-loader@^1.0.0",
+  "_id": "@skivy71/app-loader@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-fr8IkM7qOL+aKUhynF6nptiKZGXad+I9PbmhZ1gULvU2XO++5/IaXhJjPukdXYCzhP9ha9KMAmi52nYTR2aYMA==",
+  "_location": "/@skivy71/app-loader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@skivy71/app-loader@^1.0.0",
+    "name": "@skivy71/app-loader",
+    "escapedName": "@skivy71%2fapp-loader",
+    "scope": "@skivy71",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@skivy71/app-loader/-/app-loader-1.0.0.tgz",
+  "_shasum": "6cffc38bffa0863d44dafcc57dc1086463b52ff2",
+  "_spec": "@skivy71/app-loader@^1.0.0",
+  "_where": "C:\\Users\\Neil\\Documents\\MEGA\\coding\\git\\smartkx\\dapp-v2\\src",
+  "author": {
+    "name": "Neil Duffy"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Application loader",
+  "license": "ISC",
+  "main": "es6.js",
+  "name": "@skivy71/app-loader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
